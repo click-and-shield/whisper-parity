@@ -1,0 +1,224 @@
+0     | The car moves forward slowly.                   | Y | 1     | The automobile proceeds ahead, moving slowly.         
+1     | The engine runs well.                           | N |       | The engine runs well.                                 
+2     | The driver adjusts his seat.                    | Y | 2     | The driver readjusts his seat position.               
+3     | The passenger looks at the road.                | N |       | The passenger looks at the road.                      
+4     | The tires roll without noise.                   | Y | 3     | The tires roll in total silence.                      
+5     | The steering wheel stays steady.                | Y | 4     | The steering wheel remains completely steady.         
+6     | The car continues on its way.                   | N |       | The car continues on its way.                         
+7     | The engine produces a soft sound.               | N |       | The engine produces a soft sound.                     
+8     | The driver respects the speed limit.            | N |       | The driver respects the speed limit.                  
+9     | The vehicle drives along a field.               | N |       | The vehicle drives along a field.                     
+10    | The road remains clear.                         | N |       | The road remains clear.                               
+11    | The car passes a scooter.                       | Y | 5     | The car overtakes a small scooter.                    
+12    | The window opens slightly.                      | N |       | The window opens slightly.                            
+13    | The passenger breathes the fresh air.           | N |       | The passenger breathes the fresh air.                 
+14    | The driver keeps his trajectory.                | Y | 6     | The driver maintains his current trajectory.          
+15    | The engine responds without delay.              | Y | 7     | The engine reacts instantly without delay.            
+16    | The windshield stays clean.                     | N |       | The windshield stays clean.                           
+17    | The wipers remain at rest.                      | Y | 8     | The wipers stay fully at rest.                        
+18    | The road stretches out ahead of them.           | Y | 9     | The road extends further before them.                 
+19    | The vehicle approaches a curve.                 | Y | 10    | The vehicle nears a gentle curve.                     
+20    | The car takes the turn gently.                  | N |       | The car takes the turn gently.                        
+21    | The engine keeps a steady pace.                 | N |       | The engine keeps a steady pace.                       
+22    | The driver checks the rearview mirror.          | N |       | The driver checks the rearview mirror.                
+23    | The car crosses a small street.                 | N |       | The car crosses a small street.                       
+24    | The engine stays quiet.                         | N |       | The engine stays quiet.                               
+25    | The passenger observes the trees.               | Y | 11    | The passenger quietly observes the trees.             
+26    | The road becomes narrower.                      | N |       | The road becomes narrower.                            
+27    | The vehicle slows down slightly.                | Y | 12    | The vehicle gently slows a little.                    
+28    | The driver stays focused.                       | N |       | The driver stays focused.                             
+29    | The car continues its run.                      | Y | 13    | The car continues its smooth run.                     
+30    | The headlights illuminate the roadway.          | Y | 14    | The headlights brightly illuminate the roadway.       
+31    | The engine purrs calmly.                        | N |       | The engine purrs calmly.                              
+32    | The car passes a cyclist.                       | Y | 15    | The car overtakes a lone cyclist.                     
+33    | The driver keeps to the right.                  | N |       | The driver keeps to the right.                        
+34    | The vehicle approaches a bridge.                | Y | 16    | The vehicle nears a narrow bridge.                    
+35    | The car drives over the river.                  | N |       | The car drives over the river.                        
+36    | The engine keeps running.                       | N |       | The engine keeps running.                             
+37    | The passenger looks at the water.               | N |       | The passenger looks at the water.                     
+38    | The road rises gently.                          | N |       | The road rises gently.                                
+39    | The car climbs without effort.                  | Y | 17    | The car ascends the hill effortlessly.                
+40    | The engine provides the necessary power.        | N |       | The engine provides the necessary power.              
+41    | The driver holds his course.                    | Y | 18    | The driver firmly holds his course.                   
+42    | The car reaches the top.                        | Y | 19    | The car finally reaches the top.                      
+43    | The vehicle begins the descent.                 | Y | 20    | The vehicle starts its careful descent.               
+44    | The engine slows naturally.                     | N |       | The engine slows naturally.                           
+45    | The car follows the slope.                      | Y | 21    | The car follows the downward slope.                   
+46    | The passenger relaxes.                          | Y | 22    | The passenger calmly rests.                           
+47    | The road goes through a village.                | N |       | The road goes through a village.                      
+48    | The vehicle respects the limits.                | Y | 23    | The vehicle respects the legal limits.                
+49    | The car goes around a square.                   | N |       | The car goes around a square.                         
+50    | The engine remains stable.                      | N |       | The engine remains stable.                            
+51    | The driver looks at a sign.                     | N |       | The driver looks at a sign.                           
+52    | The car takes the indicated direction.          | N |       | The car takes the indicated direction.                
+53    | The passenger observes the houses.              | Y | 24    | The passenger observes the nearby houses.             
+54    | The road becomes wider.                         | N |       | The road becomes wider.                               
+55    | The vehicle accelerates gently.                 | N |       | The vehicle accelerates gently.                       
+56    | The engine vibrates slightly.                   | N |       | The engine vibrates slightly.                         
+57    | The car passes a truck.                         | Y | 25    | The car overtakes a heavy truck.                      
+58    | The driver stays cautious.                      | N |       | The driver stays cautious.                            
+59    | The car returns to its lane.                    | N |       | The car returns to its lane.                          
+60    | The engine calms down again.                    | N |       | The engine calms down again.                          
+61    | The passenger closes his eyes.                  | N |       | The passenger closes his eyes.                        
+62    | The vehicle moves forward peacefully.           | Y | 26    | The vehicle continues moving forward calmly.          
+63    | The road leads to a forest.                     | N |       | The road leads to a forest.                           
+64    | The car enters beneath the trees.               | N |       | The car enters beneath the trees.                     
+65    | The engine echoes slightly.                     | Y | 27    | The engine echoes very slightly.                      
+66    | The driver lowers the speed.                    | Y | 28    | The driver gently reduces the speed.                  
+67    | The vehicle rolls over leaves.                  | Y | 29    | The vehicle rolls across scattered leaves.            
+68    | The car glides softly over them.                | Y | 30    | The car glides gently across them now.                
+69    | The engine stays steady.                        | N |       | The engine stays steady.                              
+70    | The passenger admires the colors.               | Y | 31    | The passenger admires the vivid colors.               
+71    | The road emerges from the forest.               | N |       | The road emerges from the forest.                     
+72    | The car finds the light again.                  | N |       | The car finds the light again.                        
+73    | The engine returns to a clear sound.            | N |       | The engine returns to a clear sound.                  
+74    | The driver increases the speed.                 | N |       | The driver increases the speed.                       
+75    | The vehicle drives along a hill.                | N |       | The vehicle drives along a hill.                      
+76    | The car follows the curves.                     | Y | 32    | The car follows the winding curves.                   
+77    | The engine does not weaken.                     | N |       | The engine does not weaken.                           
+78    | The passenger watches the landscape.            | Y | 33    | The passenger watches the wide landscape.             
+79    | The road continues farther.                     | Y | 34    | The road continues on ahead.                          
+80    | The car moves smoothly.                         | N |       | The car moves smoothly.                               
+81    | The engine remains reliable.                    | Y | 35    | The engine stays completely reliable.                 
+82    | The driver concentrates.                        | N |       | The driver concentrates.                              
+83    | The car approaches an intersection.             | Y | 36    | The car approaches a busy intersection.               
+84    | The vehicle comes to a stop.                    | Y | 37    | The vehicle slowly comes to a halt.                   
+85    | The engine idles.                               | N |       | The engine idles.                                     
+86    | The driver gets moving again.                   | Y | 38    | The driver soon gets moving again.                    
+87    | The car rejoins the main road.                  | N |       | The car rejoins the main road.                        
+88    | The tires grip well.                            | N |       | The tires grip well.                                  
+89    | The engine delivers power.                      | Y | 39    | The engine steadily provides power.                   
+90    | The passenger looks at the sky.                 | Y | 40    | The passenger quietly gazes at the sky.               
+91    | The road stays straight.                        | N |       | The road stays straight.                              
+92    | The car drives quietly.                         | Y | 41    | The car continues to drive very quietly.              
+93    | The engine keeps its rhythm.                    | N |       | The engine keeps its rhythm.                          
+94    | The driver stays focused.                       | N |       | The driver stays focused.                             
+95    | The vehicle continues on its way.               | N |       | The vehicle continues on its way.                     
+96    | The car approaches the exit.                    | Y | 42    | The car nears the highway exit.                       
+97    | The engine reacts quickly.                      | Y | 43    | The engine reacts extremely quickly.                  
+98    | The driver activates the blinker.               | N |       | The driver activates the blinker.                     
+99    | The car leaves the highway.                     | Y | 44    | The car exits from the highway.                       
+100   | The tires roll on the pavement.                 | Y | 45    | The tires keep rolling along the pavement.            
+101   | The engine decreases in intensity.              | N |       | The engine decreases in intensity.                    
+102   | The passenger opens the window.                 | N |       | The passenger opens the window.                       
+103   | The vehicle crosses a quiet area.               | Y | 46    | The vehicle crosses a very quiet area.                
+104   | The car slows down a little.                    | N |       | The car slows down a little.                          
+105   | The engine exhales softly.                      | N |       | The engine exhales softly.                            
+106   | The driver observes an intersection.            | N |       | The driver observes an intersection.                  
+107   | The car turns left.                             | N |       | The car turns left.                                   
+108   | The engine follows the movement.                | Y | 47    | The engine follows the driver’s movement.             
+109   | The passenger smiles.                           | Y | 48    | The passenger gives a gentle smile.                   
+110   | The road runs along a stream.                   | N |       | The road runs along a stream.                         
+111   | The car drives at low speed.                    | N |       | The car drives at low speed.                          
+112   | The engine continues its cycle.                 | Y | 49    | The engine continues its regular cycle.               
+113   | The driver looks at the scenery.                | Y | 50    | The driver observes the surrounding scenery carefully.
+114   | The car keeps progressing.                      | N |       | The car keeps progressing.                            
+115   | The vehicle takes a new turn.                   | Y | 51    | The vehicle begins to turn again.                     
+116   | The engine stays smooth.                        | N |       | The engine stays smooth.                              
+117   | The passenger reaches toward the window.        | Y | 52    | The passenger reaches toward the open window.         
+118   | The road rises slightly.                        | Y | 53    | The road gently rises ahead of them.                  
+119   | The car speeds up a bit.                        | Y | 54    | The car begins to accelerate a little.                
+120   | The engine adapts.                              | Y | 55    | The adaptable engine instantly adjusts itself.        
+121   | The driver breathes calmly.                     | Y | 56    | The driver continues to breathe very calmly.          
+122   | The car moves forward without difficulty.       | Y | 57    | The car keeps moving forward quite easily.            
+123   | The vehicle arrives near a field.               | N |       | The vehicle arrives near a field.                     
+124   | The engine runs with tranquility.               | N |       | The engine runs with tranquility.                     
+125   | The driver checks the speed.                    | N |       | The driver checks the speed.                          
+126   | The car remains stable.                         | Y | 58    | The car remains perfectly stable.                     
+127   | The tires follow the trajectory.                | N |       | The tires follow the trajectory.                      
+128   | The engine works perfectly.                     | N |       | The engine works perfectly.                           
+129   | The passenger listens to the sound of the wind. | N |       | The passenger listens to the sound of the wind.       
+130   | The road becomes straight.                      | Y | 59    | The road grows perfectly straight now.                
+131   | The car gains speed.                            | Y | 60    | The car quickly begins to gain speed.                 
+132   | The engine emits a low sound.                   | N |       | The engine emits a low sound.                         
+133   | The driver keeps control.                       | N |       | The driver keeps control.                             
+134   | The car continues straight ahead.               | N |       | The car continues straight ahead.                     
+135   | The vehicle approaches a station.               | Y | 61    | The vehicle nears a nearby station.                   
+136   | The engine reduces its power.                   | Y | 62    | The engine gradually reduces its output.              
+137   | The car enters the parking lot.                 | Y | 63    | The car slowly enters the parking area.               
+138   | The driver looks for a space.                   | Y | 64    | The driver carefully looks around for space.          
+139   | The engine keeps running.                       | N |       | The engine keeps running.                             
+140   | The car stops slowly.                           | Y | 65    | The car comes to a gentle stop.                       
+141   | The passenger opens his door.                   | N |       | The passenger opens his door.                         
+142   | The vehicle remains still.                      | N |       | The vehicle remains still.                            
+143   | The engine turns off.                           | N |       | The engine turns off.                                 
+144   | The driver breathes deeply.                     | N |       | The driver breathes deeply.                           
+145   | The vehicle rests.                              | N |       | The vehicle rests.                                    
+146   | The car waits for the next departure.           | N |       | The car waits for the next departure.                 
+147   | The engine cools gently.                        | N |       | The engine cools gently.                              
+148   | The passenger gets out.                         | N |       | The passenger gets out.                               
+149   | The driver locks the car.                       | N |       | The driver locks the car.                             
+150   | The vehicle stays in place.                     | Y | 66    | The vehicle now stays perfectly still.                
+151   | The car waits calmly.                           | N |       | The car waits calmly.                                 
+152   | The engine is silent.                           | N |       | The engine is silent.                                 
+153   | The driver returns later.                       | N |       | The driver returns later.                             
+154   | The car unlocks.                                | N |       | The car unlocks.                                      
+155   | The engine starts again.                        | N |       | The engine starts again.                              
+156   | The vehicle leaves the station.                 | Y | 67    | The vehicle departs from the station.                 
+157   | The road opens before them.                     | Y | 68    | The road opens widely before them.                    
+158   | The car finds its speed.                        | Y | 69    | The car soon regains its speed.                       
+159   | The engine resumes its rhythm.                  | N |       | The engine resumes its rhythm.                        
+160   | The passenger puts a bag away.                  | N |       | The passenger puts a bag away.                        
+161   | The road becomes livelier.                      | N |       | The road becomes livelier.                            
+162   | The car passes several vehicles.                | N |       | The car passes several vehicles.                      
+163   | The engine stays stable.                        | N |       | The engine stays stable.                              
+164   | The driver stays alert.                         | N |       | The driver stays alert.                               
+165   | The car changes lanes.                          | N |       | The car changes lanes.                                
+166   | The vehicle follows the traffic.                | N |       | The vehicle follows the traffic.                      
+167   | The engine reacts well.                         | N |       | The engine reacts well.                               
+168   | The passenger observes the crowd.               | N |       | The passenger observes the crowd.                     
+169   | The road continues toward the city.             | N |       | The road continues toward the city.                   
+170   | The car approaches the center.                  | N |       | The car approaches the center.                        
+171   | The engine decreases slightly.                  | N |       | The engine decreases slightly.                        
+172   | The driver follows the signs.                   | N |       | The driver follows the signs.                         
+173   | The car enters a narrow street.                 | N |       | The car enters a narrow street.                       
+174   | The tires roll gently.                          | N |       | The tires roll gently.                                
+175   | The engine breathes calmly.                     | N |       | The engine breathes calmly.                           
+176   | The passenger looks at the shop windows.        | N |       | The passenger looks at the shop windows.              
+177   | The road clears afterward.                      | N |       | The road clears afterward.                            
+178   | The vehicle gains space.                        | N |       | The vehicle gains space.                              
+179   | The engine returns to a normal pace.            | N |       | The engine returns to a normal pace.                  
+180   | The driver continues his route.                 | N |       | The driver continues his route.                       
+181   | The car leaves the center.                      | N |       | The car leaves the center.                            
+182   | The vehicle heads toward the suburbs.           | N |       | The vehicle heads toward the suburbs.                 
+183   | The engine remains smooth.                      | N |       | The engine remains smooth.                            
+184   | The passenger opens his bottle.                 | N |       | The passenger opens his bottle.                       
+185   | The road becomes quieter.                       | N |       | The road becomes quieter.                             
+186   | The vehicle moves without constraint.           | N |       | The vehicle moves without constraint.                 
+187   | The engine keeps a steady tone.                 | N |       | The engine keeps a steady tone.                       
+188   | The driver regains confidence.                  | N |       | The driver regains confidence.                        
+189   | The car drives on an older path.                | N |       | The car drives on an older path.                      
+190   | The tires rumble slightly.                      | N |       | The tires rumble slightly.                            
+191   | The engine adapts to the surface.               | N |       | The engine adapts to the surface.                     
+192   | The passenger observes the stones.              | N |       | The passenger observes the stones.                    
+193   | The road turns into dirt.                       | N |       | The road turns into dirt.                             
+194   | The car moves cautiously.                       | N |       | The car moves cautiously.                             
+195   | The engine stays stable.                        | N |       | The engine stays stable.                              
+196   | The driver keeps control.                       | N |       | The driver keeps control.                             
+197   | The vehicle passes a tractor.                   | N |       | The vehicle passes a tractor.                         
+198   | The engine finds a new rhythm.                  | N |       | The engine finds a new rhythm.                        
+199   | The car goes around a tree.                     | N |       | The car goes around a tree.                           
+200   | The passenger laughs.                           | N |       | The passenger laughs.                                 
+201   | The road descends gently.                       | N |       | The road descends gently.                             
+202   | The engine slows naturally.                     | N |       | The engine slows naturally.                           
+203   | The driver follows the slope.                   | N |       | The driver follows the slope.                         
+204   | The car reaches an open field.                  | N |       | The car reaches an open field.                        
+205   | The vehicle moves freely.                       | N |       | The vehicle moves freely.                             
+206   | The engine breathes better.                     | N |       | The engine breathes better.                           
+207   | The passenger admires the sun.                  | N |       | The passenger admires the sun.                        
+208   | The road rises toward the village.              | N |       | The road rises toward the village.                    
+209   | The car continues its effort.                   | N |       | The car continues its effort.                         
+210   | The engine responds continuously.               | N |       | The engine responds continuously.                     
+211   | The driver looks at the bell tower.             | N |       | The driver looks at the bell tower.                   
+212   | The car approaches the first houses.            | N |       | The car approaches the first houses.                  
+213   | The tires roll on the cobblestones.             | N |       | The tires roll on the cobblestones.                   
+214   | The engine produces a different sound.          | N |       | The engine produces a different sound.                
+215   | The vehicle enters the main street.             | N |       | The vehicle enters the main street.                   
+216   | The driver lowers the speed.                    | N |       | The driver lowers the speed.                          
+217   | The car slips between two spaces.               | N |       | The car slips between two spaces.                     
+218   | The engine idles.                               | N |       | The engine idles.                                     
+219   | The passenger prepares his things.              | N |       | The passenger prepares his things.                    
+220   | The car stops in front of a house.              | N |       | The car stops in front of a house.                    
+221   | The vehicle stays well aligned.                 | N |       | The vehicle stays well aligned.                       
+222   | The engine turns off.                           | N |       | The engine turns off.                                 
+223   | The car finishes its journey.                   | N |       | The car finishes its journey.                         

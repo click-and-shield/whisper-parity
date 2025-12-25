@@ -1,0 +1,23 @@
+{
+  "results": [
+    "The vehicle suddenly changes direction again",
+    "The passenger stretches a hand toward the window",
+    "The road gently rises ahead of them",
+    "The car begins to accelerate a little",
+    "The motor smoothly adjusts itself",
+    "The driver continues to breathe very calmly",
+    "The car keeps moving forward quite easily",
+    "The car remains perfectly stable now",
+    "The road gradually becomes completely straight",
+    "The car steadily gains more speed",
+    "The vehicle is nearing the nearby station",
+    "The engine gradually lowers its power output",
+    "The car slowly enters the large parking lot",
+    "The driver carefully looks around for space",
+    "The car comes to a gentle stop",
+    "The vehicle now stays perfectly still",
+    "The vehicle quietly leaves the nearby station",
+    "The road now opens wide before them",
+    "The car quickly finds its cruising speed"
+  ]
+}

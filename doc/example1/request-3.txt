@@ -1,0 +1,66 @@
+tokens count: 639
+positions:    [18, 46, 68, 84, 89, 92, 109, 113, 115, 120, 130, 131]
+request:
+
+[
+    {
+        "content": "Tu es un assistant expert en stéganographie textuelle.",
+        "role": "system"
+    },
+    {
+        "content": "Le style doit rester naturel, discret et humain. Un mot est toute séquence de lettres, de chiffres, d'apostrophes ou de traits d'union, séparée par un espace.",
+        "role": "assistant"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **pair** de mots : \"The road stretches out ahead of them.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **pair** de mots : \"The passenger relaxes.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **impair** de mots : \"The car glides softly over them.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **impair** de mots : \"The vehicle comes to a stop.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **impair** de mots : \"The engine delivers power.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **impair** de mots : \"The car drives quietly.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **pair** de mots : \"The passenger smiles.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **impair** de mots : \"The driver looks at the scenery.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **impair** de mots : \"The vehicle takes a new turn.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **pair** de mots : \"The engine adapts.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **impair** de mots : \"The road becomes straight.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **impair** de mots : \"The car gains speed.\"",
+        "role": "user"
+    },
+    {
+        "content": "Réponds STRICTEMENT en JSON valide.  \nUtilise ce format exact et rien d'autre :\n\n{\n  \"results\": [\"...\", \"...\", \"...\"]\n}\n\nLe tableau \"results\" doit contenir N éléments, dans le même ordre que les messages ayant la structure : \"Reformule … : <texte>\".\n\nAucun texte en-dehors du JSON.  \nPas de commentaire.  \nPas de préface.  \nPas d’explication.\n",
+        "role": "user"
+    }
+]

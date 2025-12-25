@@ -1,0 +1,3 @@
+{
+  "results": ["The vehicle suddenly changes direction.", "The road now runs completely straight."]
+}

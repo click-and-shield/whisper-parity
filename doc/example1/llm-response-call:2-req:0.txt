@@ -1,0 +1,16 @@
+{
+  "results": [
+    "The road extends far ahead of them.",
+    "The passenger simply sits back.",
+    "The car glides gently across them now.",
+    "The vehicle slowly comes to a halt.",
+    "The engine smoothly delivers strong power.",
+    "The car continues to drive very quietly.",
+    "The passenger gives a gentle smile.",
+    "The driver calmly looks at the surrounding scenery.",
+    "The vehicle suddenly takes a completely new turn.",
+    "The adaptable engine instantly adjusts itself.",
+    "The road gradually becomes perfectly straight.",
+    "The car steadily gains more speed."
+  ]
+}

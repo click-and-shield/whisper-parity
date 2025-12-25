@@ -1,0 +1,8 @@
+{
+  "results": [
+    "The passenger calmly rests",
+    "The engine steadily provides power",
+    "The vehicle begins a fresh turn",
+    "The road suddenly turns perfectly straight"
+  ]
+}

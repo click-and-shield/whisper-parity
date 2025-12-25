@@ -1,0 +1,26 @@
+[
+  {
+    "content": "Tu es un assistant expert en stéganographie textuelle.",
+    "role": "system"
+  },
+  {
+    "content": "Le style doit rester naturel, discret et humain. Un mot est toute séquence de lettres séparée par un espace. Les contractions et apostrophes comptent comme un seul mot (ex. : l'homme = 1 mot).",
+    "role": "assistant"
+  },
+  {
+    "content": "Reformule pour générer un nombre **pair** de mots : Le véhicule quitte la station.",
+    "role": "user"
+  },
+  {
+    "content": "Reformule pour générer un nombre **pair** de mots : La route s'ouvre devant eux.",
+    "role": "user"
+  },
+  {
+    "content": "Reformule pour générer un nombre **pair** de mots : La voiture retrouve sa vitesse.",
+    "role": "user"
+  },
+  {
+    "content": "Réponds **uniquement** en JSON : {\"results\": [\"...\", \"...\", \"...\"]}. Chaque élément correspond aux phrases dans le **même ordre** que ci-dessus et respecte la contrainte pair/impair.",
+    "role": "assistant"
+  }
+]

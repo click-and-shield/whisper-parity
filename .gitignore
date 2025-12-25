@@ -1,0 +1,6 @@
+.idea
+.venv
+debug
+__pycache__
+*.sqlite
+message.txt

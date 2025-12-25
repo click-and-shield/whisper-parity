@@ -1,0 +1,218 @@
+tokens count: 2090
+positions:    [0, 2, 4, 5, 11, 14, 15, 17, 18, 19, 25, 27, 29, 30, 32, 34, 39, 41, 42, 43, 45, 46, 48, 53, 57, 62, 65, 66, 67, 68, 70, 76, 78, 79, 81, 83, 84, 86, 89, 90, 92, 96, 97, 99, 100, 103, 108, 109, 112, 113]
+request:
+
+[
+    {
+        "content": "Tu es un assistant expert en stéganographie textuelle.",
+        "role": "system"
+    },
+    {
+        "content": "Le style doit rester naturel, discret et humain. Un mot est toute séquence de lettres, de chiffres, d'apostrophes ou de traits d'union, séparée par un espace.",
+        "role": "assistant"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **pair** de mots : \"The car moves forward slowly.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **pair** de mots : \"The driver adjusts his seat.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **pair** de mots : \"The tires roll without noise.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **pair** de mots : \"The steering wheel stays steady.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **pair** de mots : \"The car passes a scooter.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **pair** de mots : \"The driver keeps his trajectory.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **pair** de mots : \"The engine responds without delay.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **pair** de mots : \"The wipers remain at rest.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **pair** de mots : \"The road stretches out ahead of them.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **pair** de mots : \"The vehicle approaches a curve.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **pair** de mots : \"The passenger observes the trees.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **pair** de mots : \"The vehicle slows down slightly.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **pair** de mots : \"The car continues its run.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **pair** de mots : \"The headlights illuminate the roadway.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **pair** de mots : \"The car passes a cyclist.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **pair** de mots : \"The vehicle approaches a bridge.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **pair** de mots : \"The car climbs without effort.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **pair** de mots : \"The driver holds his course.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **pair** de mots : \"The car reaches the top.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **pair** de mots : \"The vehicle begins the descent.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **pair** de mots : \"The car follows the slope.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **pair** de mots : \"The passenger relaxes.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **pair** de mots : \"The vehicle respects the limits.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **pair** de mots : \"The passenger observes the houses.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **pair** de mots : \"The car passes a truck.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **pair** de mots : \"The vehicle moves forward peacefully.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **impair** de mots : \"The engine echoes slightly.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **pair** de mots : \"The driver lowers the speed.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **pair** de mots : \"The vehicle rolls over leaves.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **impair** de mots : \"The car glides softly over them.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **pair** de mots : \"The passenger admires the colors.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **pair** de mots : \"The car follows the curves.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **pair** de mots : \"The passenger watches the landscape.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **impair** de mots : \"The road continues farther.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **impair** de mots : \"The engine remains reliable.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **pair** de mots : \"The car approaches an intersection.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **impair** de mots : \"The vehicle comes to a stop.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **pair** de mots : \"The driver gets moving again.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **impair** de mots : \"The engine delivers power.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **impair** de mots : \"The passenger looks at the sky.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **impair** de mots : \"The car drives quietly.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **pair** de mots : \"The car approaches the exit.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **impair** de mots : \"The engine reacts quickly.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **pair** de mots : \"The car leaves the highway.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **impair** de mots : \"The tires roll on the pavement.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **impair** de mots : \"The vehicle crosses a quiet area.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **pair** de mots : \"The engine follows the movement.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **pair** de mots : \"The passenger smiles.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **pair** de mots : \"The engine continues its cycle.\"",
+        "role": "user"
+    },
+    {
+        "content": "Reformule, en anglais, la phrase suivante pour générer une phrase contenant un nombre **impair** de mots : \"The driver looks at the scenery.\"",
+        "role": "user"
+    },
+    {
+        "content": "Réponds STRICTEMENT en JSON valide.  \nUtilise ce format exact et rien d'autre :\n\n{\n  \"results\": [\"...\", \"...\", \"...\"]\n}\n\nLe tableau \"results\" doit contenir N éléments, dans le même ordre que les messages ayant la structure : \"Reformule … : <texte>\".\n\nAucun texte en-dehors du JSON.  \nPas de commentaire.  \nPas de préface.  \nPas d’explication.\n",
+        "role": "user"
+    }
+]
