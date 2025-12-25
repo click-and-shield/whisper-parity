@@ -1,3 +1,0 @@
-{
-  "results": ["The vehicle begins to turn again.", "The road grows perfectly straight now."]
-}
